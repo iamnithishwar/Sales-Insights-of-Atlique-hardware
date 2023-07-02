@@ -5,8 +5,8 @@
 
 
 *SKILLS*
-SQL
-PowerBI
-Power Query
-Exploratory Data Analysis(EDA)
-Data Visualization
+SQL,
+PowerBI,
+Power Query,
+Exploratory Data Analysis(EDA),
+Data Visualization.
