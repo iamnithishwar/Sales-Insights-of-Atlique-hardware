@@ -5,9 +5,14 @@
 --> The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions. 
 
 
-*SKILLS*-->
-SQL,
-PowerBI,
-Power Query,
-Exploratory Data Analysis(EDA),
+*SKILLS*
+
+SQL
+
+PowerBI
+
+Power Query
+
+Exploratory Data Analysis(EDA)
+
 Data Visualization.
