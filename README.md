@@ -5,6 +5,8 @@
 --> The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions. 
 
 
+
+
 *SKILLS*
 
 SQL
